@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pallete
+  - Fruta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 109639395
+    locked: 0
+  - name: Pallete
+    uniqueID: 3893669357
+    locked: 0
+  - name: Jugador
+    uniqueID: 1544512481
+    locked: 0
+  - name: Items
+    uniqueID: 80635537
+    locked: 0
+  - name: Enemigos y Trampas
+    uniqueID: 3155345075
+    locked: 0
+  - name: Obstaculos
+    uniqueID: 1165587613
+    locked: 0
